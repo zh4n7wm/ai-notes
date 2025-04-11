@@ -26,3 +26,10 @@
 ### 开源库
 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+
+### Embedding Models
+
+参考：
+
+- [Xinference Embedding Models](https://inference.readthedocs.io/en/v1.1.0/models/builtin/embedding/index.html)
+- [Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
