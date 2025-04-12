@@ -33,3 +33,4 @@
 
 - [Xinference Embedding Models](https://inference.readthedocs.io/en/v1.1.0/models/builtin/embedding/index.html)
 - [Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+- [如何选对Embedding模型？](https://zhuanlan.zhihu.com/p/31981408298)
