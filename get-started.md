@@ -34,3 +34,4 @@
 - [Xinference Embedding Models](https://inference.readthedocs.io/en/v1.1.0/models/builtin/embedding/index.html)
 - [Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [如何选对Embedding模型？](https://zhuanlan.zhihu.com/p/31981408298)
+- [Boosting RAG: Picking the Best Embedding & Reranker models](https://www.llamaindex.ai/blog/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83)
