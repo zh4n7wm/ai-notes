@@ -35,3 +35,12 @@
 - [Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [如何选对Embedding模型？](https://zhuanlan.zhihu.com/p/31981408298)
 - [Boosting RAG: Picking the Best Embedding & Reranker models](https://www.llamaindex.ai/blog/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83)
+
+### 向量数据库
+
+选型：
+
+- [RAG技术实践：从知识库构建到向量数据库选型](https://zhuanlan.zhihu.com/p/25172238481)
+  + 推荐的向量数据库：[Milvus](https://github.com/milvus-io/milvus)、[Weaviate](https://github.com/weaviate/weaviate)、[Qdrant](https://github.com/qdrant/qdrant)
+- (Comprehensive Guide to Choosing the Right Database for RAG Implementation: Leveraging Elasticsearch, Vector Databases, and Knowledge Graphs)[https://medium.com/@sampan090611/comprehensive-guide-to-choosing-the-right-database-for-rag-implementation-leveraging-47e7c6583fdc]
+
