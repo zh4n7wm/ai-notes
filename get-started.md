@@ -26,6 +26,7 @@
 ### 开源库
 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+  + [haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)
 
 ### Embedding Models
 
