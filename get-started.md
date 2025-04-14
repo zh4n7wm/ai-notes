@@ -15,6 +15,10 @@
 
 - [【同济大学 王昊奋】Agentic RAG时代：DeepSeek引领推理模型升级下的知识检索增强](https://www.bilibili.com/video/BV1gwXrYMECi)
 
+优化：
+
+- [Seven Failure Points When Engineering a Retrieval Augmented Generation System](https://arxiv.org/abs/2401.05856)
+
 ### 开源产品
 
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)
