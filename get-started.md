@@ -34,6 +34,7 @@
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
   + [haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)
+  + [O’Reilly Technical Guide: RAG in Production with Haystack](https://www.deepset.ai/guides/oreilly-guide-rag-in-production-with-haystack)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm)
 
 一些使用观点：
