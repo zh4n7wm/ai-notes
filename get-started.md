@@ -33,6 +33,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
   + [haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm)
 
 一些使用观点：
 
