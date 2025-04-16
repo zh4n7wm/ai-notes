@@ -31,6 +31,7 @@
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index)
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
   + [haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm)
