@@ -34,6 +34,10 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
   + [haystack-cookbook](https://github.com/deepset-ai/haystack-cookbook)
 
+一些使用观点：
+
+- [why we no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
+
 ### Embedding Models
 
 参考：
