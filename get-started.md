@@ -50,6 +50,7 @@
 - [mineru](https://github.com/opendatalab/mineru)
 - [camelot](https://github.com/camelot-dev/camelot) ，从 pdf 中提取表格
 - [marker](https://github.com/VikParuchuri/marker) ，**目前测试后效果最好**
+- [Filimoa/open-parse](https://github.com/Filimoa/open-parse/)
 
 ### Embedding Models
 
