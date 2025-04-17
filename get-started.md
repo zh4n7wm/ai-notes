@@ -44,9 +44,12 @@
 
 #### preprocessing
 
+解析 pdf
+
 - [pymupdf4llm](https://github.com/pymupdf/RAG)
+- [mineru](https://github.com/opendatalab/mineru)
 - [camelot](https://github.com/camelot-dev/camelot) ，从 pdf 中提取表格
-- [marker](https://github.com/VikParuchuri/marker)
+- [marker](https://github.com/VikParuchuri/marker) ，**目前测试后效果最好**
 
 ### Embedding Models
 
