@@ -42,6 +42,12 @@
 - [grok：做 RAG 选用 langchain 还是 haystack？](https://x.com/i/grok/share/hbUNrNPuVq2Pvp3wtR21UxxVJ)
 - [why we no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
 
+#### preprocessing
+
+- [pymupdf4llm](https://github.com/pymupdf/RAG)
+- [camelot](https://github.com/camelot-dev/camelot) ，从 pdf 中提取表格
+- [marker](https://github.com/VikParuchuri/marker)
+
 ### Embedding Models
 
 参考：
