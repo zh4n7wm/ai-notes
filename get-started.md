@@ -44,6 +44,8 @@
 
 #### preprocessing
 
+##### 提取文本
+
 提取文档中的内容是很痛苦、枯燥的事情，参考：
 
 - [Ask HN: What are you using to parse PDFs for RAG?](https://news.ycombinator.com/item?id=41072632)
@@ -56,6 +58,10 @@
 - [mineru](https://github.com/opendatalab/mineru)
 - [camelot](https://github.com/camelot-dev/camelot) ，从 pdf 中提取表格
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse/)
+
+##### chunk
+
+- [Enhancing RAG performance with smart chunking strategies](https://developer.ibm.com/articles/awb-enhancing-rag-performance-chunking-strategies/)
 
 ### Embedding Models
 
