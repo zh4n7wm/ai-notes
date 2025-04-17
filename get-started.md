@@ -61,6 +61,7 @@
 
 ##### chunk
 
+- [Five Levels of Chunking Strategies in RAG| Notes from Greg’s Video](https://medium.com/@anuragmishra_27746/five-levels-of-chunking-strategies-in-rag-notes-from-gregs-video-7b735895694d)
 - [Enhancing RAG performance with smart chunking strategies](https://developer.ibm.com/articles/awb-enhancing-rag-performance-chunking-strategies/)
 
 ### Embedding Models
