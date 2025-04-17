@@ -44,6 +44,10 @@
 
 #### preprocessing
 
+提取文档中的内容是很痛苦、枯燥的事情，参考：
+
+- [Ask HN: What are you using to parse PDFs for RAG?](https://news.ycombinator.com/item?id=41072632)
+
 解析 pdf
 
 - [pymupdf4llm](https://github.com/pymupdf/RAG)
