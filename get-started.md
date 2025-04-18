@@ -1,3 +1,12 @@
+# AI学习
+
+- [Hung-yi Lee](https://www.youtube.com/@HungyiLeeNTU)
+- [DeepLearning.AI](https://www.deeplearning.ai)
+- [Hugging Face Learn](https://huggingface.co/learn)
+- [OpenAI Academy](https://academy.openai.com/home)
+
+
+
 ## 提示工程 (prompt)
 
 - [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
