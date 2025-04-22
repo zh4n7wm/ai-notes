@@ -81,6 +81,7 @@
 - [Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [如何选对Embedding模型？](https://zhuanlan.zhihu.com/p/31981408298)
 - [Boosting RAG: Picking the Best Embedding & Reranker models](https://www.llamaindex.ai/blog/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83)
+- [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
 
 #### 向量数据库
 
