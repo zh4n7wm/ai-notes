@@ -62,6 +62,7 @@
 解析 pdf
 
 - [marker](https://github.com/VikParuchuri/marker) ，**目前测试后效果最好**
+- [docling](https://github.com/docling-project/docling)
 - [tika](https://github.com/apache/tika)
 - [pymupdf4llm](https://github.com/pymupdf/RAG)
 - [mineru](https://github.com/opendatalab/mineru)
