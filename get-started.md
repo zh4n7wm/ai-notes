@@ -27,6 +27,7 @@
 优化：
 
 - [Seven Failure Points When Engineering a Retrieval Augmented Generation System](https://arxiv.org/abs/2401.05856)
+- [Integrating Agentic RAG with MCP Servers: Technical Implementation Guide](https://becomingahacker.org/integrating-agentic-rag-with-mcp-servers-technical-implementation-guide-1aba8fd4e442)
 
 ### 开源产品
 
